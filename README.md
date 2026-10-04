@@ -1,1 +1,1 @@
-# MTS-SHAD-private
+# ДЗшки из МТС ШАД
